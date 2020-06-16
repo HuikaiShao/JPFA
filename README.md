@@ -5,7 +5,8 @@ Training Model and Predicting
 ---------------
 ```
 Download the pre-training vgg16.npy (https://mega.nz/file/YU1FWJrA#O1ywiCS2IiOlUCtCpI6HTJOMrneN-Qdv3ywQP5poecM)
-"./train/train.py"
+
+Then "./train/train.py"
 ```
 
 Citation
