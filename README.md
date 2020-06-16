@@ -4,6 +4,7 @@ This is the Tensorflow implementation of paper "A Joint Pixel and Feature Alignm
 Training Model and Predicting
 ---------------
 ```
+Download the pre-training vgg16.npy and place it in the folder
 "./train/train.py"
 ```
 
